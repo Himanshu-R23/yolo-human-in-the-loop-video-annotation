@@ -4,4 +4,4 @@ numpy
 pandas
 matplotlib
 jupyter
-tqdm
+tqdm 
